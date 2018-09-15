@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "Cuttack.First."
+description: "Everythig about Cutack."
+meta_description: "Cuttack First Official Website"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -11,12 +11,12 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Admin:
+    name: Admin
+    display_name: Admin
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://www.cuttack.top
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
@@ -29,10 +29,10 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -40,11 +40,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
