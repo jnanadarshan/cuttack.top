@@ -4,34 +4,19 @@ title: Cuttack.First. Stories Terms & Conditions
 comments: false
 ---
 
-This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Please read the below Privacy policy in detail before submitting the story.
 
 
 
 ### Features
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.x
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
+- *Originality* - By submitting the story you agree that the story is your own work or you've obtained necessary permissions in case of a reproduced material from the original author/content owner. In case of any legal issues only you and not the platform will be responsible for litigation.
+
+- *Right to Publish* - By submitting the story you give the platform (Facebook Page, Group, website) to publish the story at a convenient time.
+
+- *Right to Modify* - Cuttack First group reserves the right to modify, replace, add content, images or other supporting material to make your submitted story more appealing and uniform. However the theme of your story will be kept as close to original as possible.
+
+- *Right to Reject* - Cuttack First reserves the right to reject any submitted story or delete a published story on its platform due to any reasons including but not limited to - misinformation, violation of other's privacy, hate speech, plagiarised material etc.
 
 ### How to Use
 
