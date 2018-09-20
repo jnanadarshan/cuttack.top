@@ -32,6 +32,7 @@ authors:
 plugins:
   - jekyll-paginate
   - jekyll-archives
+  - amp-jekyll
 
 # Archives
 jekyll-archives:
@@ -48,3 +49,4 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+ampdir: amp
