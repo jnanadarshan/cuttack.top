@@ -8,8 +8,10 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
+{% if page.path contains '_posts' %}
 <!--AMP Page Link-->
-<link rel="amphtml" href="amp.{{ page.url}}">
+<link rel="amphtml" href="https://amp.cuttack.top{{ page.url}}">
+{% endif %}
 
 
 <title>{{ page.title }} | {{site.name}}</title>
