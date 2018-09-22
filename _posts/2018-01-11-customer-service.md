@@ -8,6 +8,19 @@ featured: true
 hidden: true
 ---
 
-We're thrilled to announce that our website is now live. After months of hard work and testing we can finally start publishing stories about Cuttack and Odisha. We will leave no stones untouched to bring Cuttack at the forefront of development in Odisha and India. We will need your support in terms of stories, images and news regarding Cuttack to run the website.
+We're thrilled to announce that our website is now live. After months of hard work and testing we can finally start publishing stories about Cuttack and Odisha. We will leave no stones untouched to bring Cuttack at the forefront of development in Odisha and India. We will need your support in terms of stories, images and news regarding Cuttack to run the website. Do comment below to let us know you were here and make sure you like the page for updates.
 
-## We will share more update in coming days. Stay tuned and like our Facebook page and join our group. Link is on the *Top Menu*.
+<div class="fb-page" data-href="https://www.facebook.com/cuttackfirst" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/cuttackfirst" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/cuttackfirst">Cuttack First</a></blockquote></div>
+
+## We will share more update in coming days.
+Stay tuned and like our Facebook page and join our group. Link is on the *Top Menu*.
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
