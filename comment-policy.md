@@ -6,7 +6,7 @@ comments: false
 
 /*Approved by Administrators*/
 
-Unlike the Wild West of most of the Internet, we have a very strict comment policy on our portal <a href="https://cuttack.top">**jnan.co**</a>. If you’re an a`**`hole, you’ll be banned. Sorry, a`**`holes!
+Unlike the Wild West of most of the Internet, we have a very strict comment policy on our portal <a href="https://cuttack.top">**cuttack.top**</a>. If you’re an a`**`hole, you’ll be banned. Sorry, a`**`holes!
 
 That, most important, statement out of the way, here’s more you should know whether you’re a regular commenter or new to the site.
 
