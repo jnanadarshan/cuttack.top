@@ -1,21 +1,13 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "Welcome to the community"
 author: Admin
-categories: [ Jekyll, tutorial ]
-image: assets/images/11.jpg
+categories: [ cuttack, announcements ]
+image: assets/images/p20180922-cf-fb-cover-800x400.jpg
 featured: true
 hidden: true
 ---
 
-No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+We're thrilled to announce that our website is now live. After months of hard work and testing we can finally start publishing stories about Cuttack and Odisha. We will leave no stones untouched to bring Cuttack at the forefront of development in Odisha and India. We will need your support in terms of stories, images and news regarding Cuttack to run the website.
 
-Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.
-
-## What is Jekyll?
-
-Jekyll is a simple, blog-aware, static site generator.
-
-You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
-
-Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.
+## We will share more update in coming days. Stay tuned and like our Facebook page and join our group. Link is on the *Top Menu*.

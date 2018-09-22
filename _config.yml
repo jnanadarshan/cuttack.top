@@ -18,7 +18,7 @@ authors:
     display_name: Admin
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: web@cuttack.top
-    web: https://www.cuttack.top
+    web: https://cuttack.top
     facebook: https://facebook.com/cuttackfirst
     description: "Admins of the website."
   #john:
@@ -39,6 +39,7 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
+    - authors
   layout: archive
   permalinks:
     category: '/category/:name/'
