@@ -12,7 +12,7 @@ That, most important, statement out of the way, here’s more you should know wh
 
 If your comment does not immediately appear on the site after posting, it may have been flagged for review. There are a number of things which will get your comment flagged for review, we ask that you please keep that in mind before resubmitting the comment multiple times or contacting me about it.
 
-* Use of any of the curse words and/or slurs disqus has on their blacklist will automatically flag a comment so it won’t appear on our site. Sometimes these words are used as part of a good discussion, these comments will be approved by a moderator when appropriate.
+* Use of any of the curse words and/or slurs Disqus has on their blacklist will automatically flag a comment so it won’t appear on our site. Sometimes these words are used as part of a good discussion, these comments will be approved by a moderator when appropriate.
 * Using a Disqus account without a verified email address will automatically flag a comment.
 * Fluctuations in the space time continuum. Sometimes things just get auto-flagged and we don’t know why.
 * Comments can also be flagged for review by my readership (please do not abuse this option for other users you simply disagree with, it makes my moderation jobs a lot harder).
