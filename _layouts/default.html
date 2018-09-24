@@ -28,6 +28,13 @@
 
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
+<!--facebook OpenGraph -->
+<meta property="og:url" content="{{site.url}}{{page.url}}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }} | {{site.name}}" />
+<meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
+<meta property="og:app_id" content="2171619516439054" />
+
 </head>
 
 {% if jekyll.environment == 'production' %}
