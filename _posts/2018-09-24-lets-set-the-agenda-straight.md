@@ -3,7 +3,7 @@ layout: post
 title:  "Let's set the agenda straight!"
 author: Admin
 categories: [ odisha, opinion ]
-image: assets/images/post2018/2018924-sunrise.jpg
+image: assets/images/post2018/2018924-sunrise-600x300.jpg
 description: "This is a test og desc."
 ---
 #### Who we are?
