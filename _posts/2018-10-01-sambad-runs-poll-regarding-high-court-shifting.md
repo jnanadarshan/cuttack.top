@@ -10,7 +10,7 @@ hidden: false
 ---
 In another bizarre show of arrogance and ignorance daily newpaper The Sambad has run a poll asking whether **High Court of Orissa should be shifted to Bhubaneswar?**. We wrote 3 days on this page how Lawyers in Bhubaneswar protested and demanded that HC should be shifted to Bhubaneswar. But the poll by Sambad is absolutely unacceptable and rubbish. Please tweet to <a href="https://twitter.com/sambad_odisha"> Sambad here </a> and show your disapproval of the derogatory poll towards the dignity of Cuttack.
 
-<img src="https://cdn.cuttack.top/cf/img/2018/458b4a5ce4981e64349e252666fa60de.png"></img>
+<img src="https://cdn.cuttack.top/cf/img/2018/458b4a5ce4981e64349e252666fa60de.png">
 
 You can read our earlier post here: <a href="https://cuttack.top/news/cuttack/2018/09/28/unacceptable-bizarre-demand-high-court-of-odisha.html">Like **Bizarre Demand: Bhubaneswar Lawyers demand relocation of High Court of Odisha from Cuttack** on Facebook</a>
 
